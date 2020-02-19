@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sagutdinov2-1</string>
+    <string name="money_enter">Ввод денег</string>
+    <string name="info_enter">Информация об оплате</string>
+    <string name="ok_button">OK</string>
+    <string name="card">С банковской карты</string>
+    <string name="mobile">С мобильного телефона</string>
+    <string name="cash">Наличными по адресу</string>
+</resources>
